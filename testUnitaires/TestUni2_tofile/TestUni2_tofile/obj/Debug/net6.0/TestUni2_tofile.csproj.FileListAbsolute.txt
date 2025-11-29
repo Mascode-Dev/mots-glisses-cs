@@ -1,0 +1,15 @@
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\bin\Debug\net6.0\TestUni2_tofile.exe
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\bin\Debug\net6.0\TestUni2_tofile.deps.json
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\bin\Debug\net6.0\TestUni2_tofile.runtimeconfig.json
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\bin\Debug\net6.0\TestUni2_tofile.dll
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\bin\Debug\net6.0\TestUni2_tofile.pdb
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\obj\Debug\net6.0\TestUni2_tofile.csproj.AssemblyReference.cache
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\obj\Debug\net6.0\TestUni2_tofile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\obj\Debug\net6.0\TestUni2_tofile.AssemblyInfoInputs.cache
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\obj\Debug\net6.0\TestUni2_tofile.AssemblyInfo.cs
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\obj\Debug\net6.0\TestUni2_tofile.csproj.CoreCompileInputs.cache
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\obj\Debug\net6.0\TestUni2_tofile.dll
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\obj\Debug\net6.0\refint\TestUni2_tofile.dll
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\obj\Debug\net6.0\TestUni2_tofile.pdb
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\obj\Debug\net6.0\TestUni2_tofile.genruntimeconfig.cache
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\TestUni2_tofile\TestUni2_tofile\obj\Debug\net6.0\ref\TestUni2_tofile.dll

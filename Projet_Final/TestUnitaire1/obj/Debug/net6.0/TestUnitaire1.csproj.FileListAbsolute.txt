@@ -1,0 +1,15 @@
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\bin\Debug\net6.0\TestUnitaire1.exe
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\bin\Debug\net6.0\TestUnitaire1.deps.json
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\bin\Debug\net6.0\TestUnitaire1.runtimeconfig.json
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\bin\Debug\net6.0\TestUnitaire1.dll
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\bin\Debug\net6.0\TestUnitaire1.pdb
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\obj\Debug\net6.0\TestUnitaire1.csproj.AssemblyReference.cache
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\obj\Debug\net6.0\TestUnitaire1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\obj\Debug\net6.0\TestUnitaire1.AssemblyInfoInputs.cache
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\obj\Debug\net6.0\TestUnitaire1.AssemblyInfo.cs
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\obj\Debug\net6.0\TestUnitaire1.csproj.CoreCompileInputs.cache
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\obj\Debug\net6.0\TestUnitaire1.dll
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\obj\Debug\net6.0\refint\TestUnitaire1.dll
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\obj\Debug\net6.0\TestUnitaire1.pdb
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\obj\Debug\net6.0\TestUnitaire1.genruntimeconfig.cache
+C:\Users\jgoth\Documents\ESILV\A2\Projet Test Unitaire\TestUnitaire1\obj\Debug\net6.0\ref\TestUnitaire1.dll

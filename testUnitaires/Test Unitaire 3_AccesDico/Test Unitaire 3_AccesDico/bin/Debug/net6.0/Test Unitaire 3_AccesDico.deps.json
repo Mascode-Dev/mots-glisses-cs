@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Test Unitaire 3_AccesDico/1.0.0": {
+        "runtime": {
+          "Test Unitaire 3_AccesDico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test Unitaire 3_AccesDico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

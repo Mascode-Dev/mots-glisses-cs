@@ -1,0 +1,15 @@
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\bin\Debug\net6.0\Test Uni 4.exe
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\bin\Debug\net6.0\Test Uni 4.deps.json
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\bin\Debug\net6.0\Test Uni 4.runtimeconfig.json
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\bin\Debug\net6.0\Test Uni 4.dll
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\bin\Debug\net6.0\Test Uni 4.pdb
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\obj\Debug\net6.0\Test Uni 4.csproj.AssemblyReference.cache
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\obj\Debug\net6.0\Test Uni 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\obj\Debug\net6.0\Test Uni 4.AssemblyInfoInputs.cache
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\obj\Debug\net6.0\Test Uni 4.AssemblyInfo.cs
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\obj\Debug\net6.0\Test Uni 4.csproj.CoreCompileInputs.cache
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\obj\Debug\net6.0\Test Uni 4.dll
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\obj\Debug\net6.0\refint\Test Uni 4.dll
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\obj\Debug\net6.0\Test Uni 4.pdb
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\obj\Debug\net6.0\Test Uni 4.genruntimeconfig.cache
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Uni 4\Test Uni 4\obj\Debug\net6.0\ref\Test Uni 4.dll

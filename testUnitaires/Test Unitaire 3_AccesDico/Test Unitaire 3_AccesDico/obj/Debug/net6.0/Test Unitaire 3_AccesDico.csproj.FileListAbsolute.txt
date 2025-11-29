@@ -1,0 +1,15 @@
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\obj\Debug\net6.0\Test Unitaire 3_AccesDico.csproj.AssemblyReference.cache
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\obj\Debug\net6.0\Test Unitaire 3_AccesDico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\obj\Debug\net6.0\Test Unitaire 3_AccesDico.AssemblyInfoInputs.cache
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\obj\Debug\net6.0\Test Unitaire 3_AccesDico.AssemblyInfo.cs
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\obj\Debug\net6.0\Test Unitaire 3_AccesDico.csproj.CoreCompileInputs.cache
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\bin\Debug\net6.0\Test Unitaire 3_AccesDico.exe
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\bin\Debug\net6.0\Test Unitaire 3_AccesDico.deps.json
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\bin\Debug\net6.0\Test Unitaire 3_AccesDico.runtimeconfig.json
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\bin\Debug\net6.0\Test Unitaire 3_AccesDico.dll
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\bin\Debug\net6.0\Test Unitaire 3_AccesDico.pdb
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\obj\Debug\net6.0\Test Unitaire 3_AccesDico.dll
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\obj\Debug\net6.0\refint\Test Unitaire 3_AccesDico.dll
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\obj\Debug\net6.0\Test Unitaire 3_AccesDico.pdb
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\obj\Debug\net6.0\Test Unitaire 3_AccesDico.genruntimeconfig.cache
+C:\Users\artja\OneDrive\Bureau\ESILV\Année 2\S1\Algo & POO\TD 1\Test Unitaire 3_AccesDico\Test Unitaire 3_AccesDico\obj\Debug\net6.0\ref\Test Unitaire 3_AccesDico.dll
